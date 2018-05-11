@@ -7,7 +7,9 @@ import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
 
-
+/**
+ * 配置完excel地址、需要拼接的列、生成文件地址，直接执行main()方法
+ */
 public class Main {
     public static void main(String[] args) {
         final List<String> list = new ArrayList<String>();
